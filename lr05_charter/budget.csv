@@ -1,0 +1,9 @@
+﻿item,category,fte_or_quantity,four_week_periods_or_units,unit_cost_uah,total_uah,basis
+PM 50%,personnel,0.5,5,60000,150000,Assumed rate; V06 team
+BA 100%,personnel,1,5,50000,250000,Assumed rate; V06 team
+Dev #1 100%,personnel,1,5,70000,350000,Assumed rate; V06 team
+Dev #2 100%,personnel,1,5,70000,350000,Assumed rate; V06 team
+QA 50%,personnel,0.5,5,50000,125000,Assumed rate; V06 team
+Test infrastructure,operations,1,1,45000,45000,Planning assumption
+Pilot training,rollout,1,1,25000,25000,Planning assumption
+Risk reserve,reserve,1,1,145000,145000,Held until sponsor approval
