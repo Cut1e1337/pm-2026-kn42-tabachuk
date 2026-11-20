@@ -5,6 +5,6 @@ ST-03,Викладачі та інші працівники-заявники,Н�
 ST-04,Погоджувачі кафедр/підрозділів,Навчальна модель академії,high,high,neutral,manage_closely,BA/PO
 ST-05,Адміністратор каталогу й відповідальний за обладнання,Навчальна модель академії,high,low,neutral,keep_informed,BA
 ST-06,Власник офіційного розкладу занять,Навчальна модель академії,high,high,neutral,manage_closely,PM/Dev
-ST-07,IT-адміністратор / InfoSec,Навчальна модель академії,low,high,neutral,keep_satisfied,Dev/PM
+ST-07,Служба інформаційної безпеки та ІТ-адміністратор академії,Навчальна модель академії,high,high,neutral,manage_closely,PM
 ST-08,Інші співробітники та студенти,Навчальна модель академії,low,low,neutral,monitor,PO
 ST-09,Проєктна команда PM BA Dev×2 QA,Проєктна команда,high,low,supporter,keep_informed,PM
