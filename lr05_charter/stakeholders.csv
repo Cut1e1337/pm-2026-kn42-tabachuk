@@ -8,3 +8,7 @@ ST-06,Власник офіційного розкладу занять,Навч
 ST-07,Служба інформаційної безпеки та ІТ-адміністратор академії,Навчальна модель академії,high,high,neutral,manage_closely,PM
 ST-08,Інші співробітники та студенти,Навчальна модель академії,low,low,neutral,monitor,PO
 ST-09,Проєктна команда PM BA Dev×2 QA,Проєктна команда,high,low,supporter,keep_informed,PM
+ST-10,"Керівник проєкту (PM, 50%)",Проєктна команда,high,high,supporter,manage_closely,Спонсор
+ST-11,"Бізнес-аналітик (BA, 100%)",Проєктна команда,high,low,supporter,keep_informed,PM
+ST-12,"Розробники (Dev1 і Dev2, по 100%)",Проєктна команда,high,low,supporter,keep_informed,PM
+ST-13,"Тестувальник (QA, 50%)",Проєктна команда,high,low,neutral,keep_informed,PM
