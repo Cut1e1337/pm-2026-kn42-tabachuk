@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,400,460,https://jobs.dou.ua/salaries/,Найвища ставка: відповідає за строк і бюджет і має найменше годин
+BA,1,800,390,https://jobs.dou.ua/salaries/,Нижче за Dev на співвідношенні медіан огляду DOU
+Dev,2,1600,420,https://jobs.dou.ua/salaries/,Два розробники по 100%; базова ставка прайсу
+QA,0.5,400,300,https://jobs.dou.ua/salaries/,Найнижча ставка: ручне тестування без автоматизації
